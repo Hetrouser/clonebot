@@ -27,7 +27,7 @@
     <p align="left">
         For any <b>Code vioate error</b> shown by heroku, fork the repo first, change the deploy button URL to your fork URL, change the <b>Repository</b> URL 
         in app.json to your fork URL.<br><br>
-      <a href="https://heroku.com/deploy?template=https://github.com/howtodoyt6/clonebot" target="_blank">
+      <a href="https://heroku.com/deploy?template=https://github.com/Littletonar/clonebot" target="_blank">
         <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
